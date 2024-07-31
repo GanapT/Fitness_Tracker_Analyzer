@@ -4,10 +4,10 @@
 // Engineer: 
 // 
 // Create Date: 03/28/2024 04:52:04 PM
-// Design Name: 
-// Module Name: Mile1
-// Project Name: 
-// Target Devices: 
+// Design Name: Ganap Tewary
+// Module Name: 
+// Project Name: Fitness Tacker Analyzer
+// Target Devices: XC7A100T-1CSG324C
 // Tool Versions: 
 // Description: 
 // 
